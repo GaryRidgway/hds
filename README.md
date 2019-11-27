@@ -19,6 +19,7 @@ per the NVM version or run it through an NPM script.
 - `nvm use`
 - `npm install -g gulp-cli`
 - `gulp watch`
+- if `gulp watch` tells you to run `npm install`, do that and then run gulp watch again
 
 #### NPM Script
 - `npm run gulp`
